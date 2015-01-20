@@ -1,0 +1,15 @@
+{
+  "manifest_version": 2,
+
+  "name": "Foxail Reader for Chrome",
+  "description": "cnbeta mobile",
+  "version": "0.5",
+  "permissions": [
+    "http://m.cnbeta.com/wap/"
+  ],
+
+  "browser_action": {
+    "default_icon": "icon.png",
+    "default_popup": "popup.html"
+  }
+}
